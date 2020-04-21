@@ -1,5 +1,7 @@
 void main()
 {
-	int a;
-	printf("Hello World");
+  int a;
+  int c;
+printf("Hello World");
+
 }
