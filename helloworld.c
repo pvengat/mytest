@@ -1,4 +1,5 @@
 void main()
 {
-printf("Hello World");
+	int a;
+	printf("Hello World");
 }
